@@ -1,0 +1,16 @@
+.n1 {
+  background-color: #9796f0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items:center;
+}
+.i1 {
+  height: 30px;
+  width: 30px;
+}
+.n2 {
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+}
